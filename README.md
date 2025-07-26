@@ -8,6 +8,9 @@
 ## 使用方法
 在[Overleaf](https://cn.overleaf.com/)上新建文档，将本模板所有文件导入，根据所需修改内容即可。
 
+## 注意事项
+需要在菜单将编译引擎改为"**XeLaTeX**"，否则beamer可能编译不通过，会报错。
+
 ## 效果
 ![](./figures/SMU_BeamerTemplate_page-0001.jpg)
 ![](./figures/SMU_BeamerTemplate_page-0002.jpg)
